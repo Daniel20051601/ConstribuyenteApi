@@ -1,0 +1,6 @@
+@ConstribuyenteApi_HostAddress = http://localhost:5076
+
+GET {{ConstribuyenteApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
